@@ -1,2 +1,3 @@
 # Kaggle-ML
-My projects on ML in Kaggle as I create and validate models using DecisionTreeRegressor.
+Introduction to ML
+My projects in Kaggle as I create and validate models using DecisionTreeRegressor and RandomForestRegressor
